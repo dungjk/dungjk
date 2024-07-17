@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dung.Dang nickname @dungjk
-- :keyboard: I'm fullstack developer at Wellbarrier A/S
+- :keyboard: I'm fullstack developer.
 - :man_student: I study computer science.
 - :green_book: I know Agile, Scrum
-- :astronaut: I strongly in .NET, nodejs, data analizing.
+- :astronaut: I strongly in .NET, nodejs.
 - :battery: I able to work as back-end developer (ASP.NET Core, nodejs)
 - :battery: I able to work as front-end developer (Angular, React, VueJS)
 - 👀 I’m interested in .NET, nodejs, IoT
